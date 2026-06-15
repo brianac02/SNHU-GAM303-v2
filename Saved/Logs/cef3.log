@@ -1,7 +1,13 @@
-[28516:27052:0607/222447.679:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28516:11780:0607/222447.724:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28516:27052:0607/222447.743:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19144:30352:0607/222451.754:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2E2123C4AAAEDF7EB02360350CBE2910 will be ignored
-[28516:27052:0607/222456.418:ERROR:device_event_log_impl.cc(196)] [22:24:56.089] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[28516:27052:0607/222456.752:ERROR:usb_descriptors.cc(119)] Failed to parse configuration descriptor.
-[28516:27052:0607/223759.291:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22988:2828:0614/200201.131:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22988:8980:0614/200201.355:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22988:2828:0614/200201.466:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23828:19404:0614/200206.419:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2B97AEFD255D3976F059AB2E8280975F will be ignored
+[20804:6512:0614/200208.097:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20804:6512:0614/200208.754:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22988:2828:0614/200212.419:ERROR:device_event_log_impl.cc(196)] [20:02:12.088] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22988:2828:0614/200212.427:ERROR:usb_descriptors.cc(119)] Failed to parse configuration descriptor.
+[20804:6512:0614/200220.759:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20804:6512:0614/200235.765:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22988:2828:0614/202221.464:ERROR:device_event_log_impl.cc(196)] [20:22:21.256] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22988:2828:0614/212323.185:ERROR:device_event_log_impl.cc(196)] [21:23:23.185] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22988:2828:0614/213955.494:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
