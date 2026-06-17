@@ -1,3 +1,5 @@
-2026/06/14-20:02:01.533 79f8 Reusing MANIFEST C:\UE Projects\Carman303\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/14-20:02:01.541 79f8 Recovering log #3
-2026/06/14-20:02:01.542 79f8 Reusing old log C:\UE Projects\Carman303\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/06/17-00:48:43.194 8114 Reusing MANIFEST C:\UE Projects\Carman303\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/17-00:48:43.197 8114 Recovering log #3
+2026/06/17-00:48:43.198 8114 Level-0 table #3: started
+2026/06/17-00:48:43.203 8114 Level-0 table #3: 58481 bytes OK
+2026/06/17-00:48:43.208 8114 Delete type=0 #3
